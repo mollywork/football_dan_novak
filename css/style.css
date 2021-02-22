@@ -112,10 +112,9 @@ a:visited.toc-link {color:#000;}
 }
 
 .stack-image {
-  width:100%;
-  max-width:900px;
   margin:0 auto;
   padding-top:30px;
+  max-height: 800px;
 }
 
 .toc-image {
