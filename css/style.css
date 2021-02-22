@@ -114,11 +114,17 @@ a:visited.toc-link {color:#000;}
 .stack-image {
   margin:0 auto;
   padding-top:30px;
-  max-height: 800px;
+  width: 100%;
+  max-width: 900px;
 }
 
 .toc-image {
   width:200px;
+}
+
+.bio-image {
+  max-height: 600px;
+  width:auto;
 }
 
 
