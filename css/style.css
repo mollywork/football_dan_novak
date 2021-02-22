@@ -225,6 +225,15 @@ p{
   font-family: 'Poppins', sans-serif;
 }
 
+hr {
+  display: block;
+  background-color: black;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 0.5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 
 /* RESPONSIVE */
 
