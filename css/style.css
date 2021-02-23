@@ -133,8 +133,14 @@ a:visited.toc-link {color:#000;}
 }
 
 .splash-photo {
-    width:100%
+    width:100%;
 }
+
+
+.splash-row {
+     margin-right:0px;
+     margin-left:0px;
+   }
 
 .splash-col {
      padding-right:0px;
@@ -198,11 +204,17 @@ p{
 
 .caption {
   width:100%;
+  font-size:1em;
   max-width:900px;
   margin:0 auto;
   padding-bottom:30px;
   font-family: 'Poppins', sans-serif;
   color:#999;
+}
+
+.splash-caption {
+  font-size:.75em;
+  line-height:1;
 }
 
 .footer p {
