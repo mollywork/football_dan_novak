@@ -82,21 +82,25 @@ BODY {
 a:link {
   color:#991b1e;
     text-decoration:none;
+    font-weight: bold;
 }
 
 a:hover {
   color:#999999;
   text-decoration:underline;
+  font-weight: bold;
 }
 
 a:visited {
   color:#991b1e;
   text-decoration:none;
+  font-weight: bold;
 }
 
 a:active {
   color:#991b1e;
   text-decoration:none;
+  font-weight: bold;
 }
 
 a:link.toc-link {color:#000;}
@@ -215,7 +219,7 @@ p{
 }
 
 .dropcap {
-  color: #991b1e;
+  color:#991b1e;
   float: left;
   font-family: 'Poppins', sans-serif;
   font-size: 4em;
@@ -238,6 +242,11 @@ hr {
   border-width: 0.5px;
   margin-top: 30px;
   margin-bottom: 50px;
+}
+
+.bio-text {
+  font-family: 'Poppins';
+  text-align: left;
 }
 
 /* RESPONSIVE */
