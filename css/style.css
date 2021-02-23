@@ -127,9 +127,19 @@ a:visited.toc-link {color:#000;}
 }
 
 .bio-image {
+  max-width:550px;
   max-height: 600px;
   width:auto;
 }
+
+.splash-photo {
+    width:100%
+}
+
+.splash-col {
+     padding-right:0px;
+     padding-left:0px;
+   }
 
 
 /* TYPOGRAPHY */
@@ -236,7 +246,7 @@ p{
 
 hr {
   display: block;
-  background-color: 808080;
+  background-color: #808080;
   overflow: hidden;
   border-style: inset;
   border-width: 0.5px;
@@ -276,6 +286,10 @@ hr {
 
   .quote {
     font-size:1em;
+  }
+
+  .bio-image {
+    width:200px;
   }
 
 }
