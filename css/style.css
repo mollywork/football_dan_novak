@@ -152,7 +152,7 @@ p{
   text-align:left;
   line-height:180%;
   font-family: 'Source Serif Pro', serif;
-  font-size:1em;
+  font-size:1.2em;
 }
 
 .byline {
@@ -164,7 +164,7 @@ p{
 
 .intro-text {
   font-family: 'Poppins', sans-serif;
-  font-size:1.25em;
+  font-size:1.4em;
   max-width:800px;
   margin:0 auto;
   padding-top:25px;
@@ -232,11 +232,11 @@ p{
 
 hr {
   display: block;
-  background-color: black;
+  background-color: 808080;
   overflow: hidden;
   border-style: inset;
   border-width: 0.5px;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50px;
 }
 
