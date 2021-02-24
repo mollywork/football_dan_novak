@@ -70,12 +70,17 @@ BODY {
   width:100%;
   max-width:1000px;
   margin:0 auto;
+  text-align:center;
 }
 
 #logo {
   width:250px;
 }
 
+.top-logo {
+  text-transform:uppercase;
+  font-size:.8em;
+}
 
 /* LINK STYLES */
 
@@ -274,6 +279,10 @@ hr {
 /* RESPONSIVE */
 
 @media(max-width:550px) {
+  .top-logo {
+      font-size:.5em;
+  }
+
   p {
     padding-left:20px;
     padding-right:10px;
